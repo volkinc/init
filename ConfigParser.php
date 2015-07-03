@@ -1,4 +1,6 @@
 <?php
+include_once $basedir."ConfigNamespace.php";
+include_once $basedir."ConfigNode.php";
 /**
  * Implements the logic of parsing the ini file.
  * Working with the namespaces like [LIVE:TES]
